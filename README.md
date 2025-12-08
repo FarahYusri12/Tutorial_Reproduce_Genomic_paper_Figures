@@ -1,4 +1,4 @@
-# Tutorial_chipseq
+# Tutorial_chipseq(In progress)
 
 This project was conducted as a guided learning and reproducibility study based on a public ChIP-seq tutorial by Tommy Tang. The primary goal is to implement a complete end-to-end ChIP-seq analysis workflow using real public data. In addition, this project aims to reproduce publication-quality result visualizations similar to those reported in the original journal article, including signal tracks, peak profiles, and genome browser-style figures.
 
